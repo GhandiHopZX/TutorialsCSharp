@@ -1,0 +1,15 @@
+C:\Users\azuka\source\repos\TUTQSHARP\TUTQSHARP\bin\Debug\net6.0\TUTQSHARP.exe
+C:\Users\azuka\source\repos\TUTQSHARP\TUTQSHARP\bin\Debug\net6.0\TUTQSHARP.deps.json
+C:\Users\azuka\source\repos\TUTQSHARP\TUTQSHARP\bin\Debug\net6.0\TUTQSHARP.runtimeconfig.json
+C:\Users\azuka\source\repos\TUTQSHARP\TUTQSHARP\bin\Debug\net6.0\TUTQSHARP.dll
+C:\Users\azuka\source\repos\TUTQSHARP\TUTQSHARP\bin\Debug\net6.0\TUTQSHARP.pdb
+C:\Users\azuka\source\repos\TUTQSHARP\TUTQSHARP\obj\Debug\net6.0\TUTQSHARP.csproj.AssemblyReference.cache
+C:\Users\azuka\source\repos\TUTQSHARP\TUTQSHARP\obj\Debug\net6.0\TUTQSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azuka\source\repos\TUTQSHARP\TUTQSHARP\obj\Debug\net6.0\TUTQSHARP.AssemblyInfoInputs.cache
+C:\Users\azuka\source\repos\TUTQSHARP\TUTQSHARP\obj\Debug\net6.0\TUTQSHARP.AssemblyInfo.cs
+C:\Users\azuka\source\repos\TUTQSHARP\TUTQSHARP\obj\Debug\net6.0\TUTQSHARP.csproj.CoreCompileInputs.cache
+C:\Users\azuka\source\repos\TUTQSHARP\TUTQSHARP\obj\Debug\net6.0\TUTQSHARP.dll
+C:\Users\azuka\source\repos\TUTQSHARP\TUTQSHARP\obj\Debug\net6.0\refint\TUTQSHARP.dll
+C:\Users\azuka\source\repos\TUTQSHARP\TUTQSHARP\obj\Debug\net6.0\TUTQSHARP.pdb
+C:\Users\azuka\source\repos\TUTQSHARP\TUTQSHARP\obj\Debug\net6.0\TUTQSHARP.genruntimeconfig.cache
+C:\Users\azuka\source\repos\TUTQSHARP\TUTQSHARP\obj\Debug\net6.0\ref\TUTQSHARP.dll
